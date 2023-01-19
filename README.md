@@ -6,7 +6,7 @@ A repository containing Helm charts for different Kubernetes deployments.
 
 ## Installation
 ```
-❯ helm repo add jonwhitty https://jonwhitty.github.io/helm-charts/
+❯ helm repo add wye0220 https://wye0220.github.io/helm-charts/
 ❯ helm repo update
-❯ helm repo upgrade --install ... <release> jonwhitty/<chart>
+❯ helm repo upgrade --install ... <release> wye0220/<chart>
 ```
