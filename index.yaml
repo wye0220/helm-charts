@@ -3,13 +3,13 @@ entries:
   spicedb:
   - apiVersion: v2
     appVersion: v1.4.0
-    created: "2023-01-18T20:40:13.006881-05:00"
+    created: "2023-01-18T20:46:00.339044-05:00"
     description: A Helm chart to manage a Kubernetes based deployment of Authzed spicedb.
       For more information see https://github.com/authzed/spicedb.
-    digest: d00d5cbd0ff4a603894299d0fa3c218215f59d8058236046c9fd2d9c4c7105c0
+    digest: 6ce425de997530ab0b64c52167c3bf7180e8b53eaf8a8829e13703018bc568df
     name: spicedb
     type: application
     urls:
     - https://wye0220.github.io/helm-charts/spicedb-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-18T20:40:13.005427-05:00"
+generated: "2023-01-18T20:46:00.338558-05:00"
